@@ -1,0 +1,6 @@
+.env
+*.env
+.omc/
+__pycache__/
+*.pyc
+dataset/
